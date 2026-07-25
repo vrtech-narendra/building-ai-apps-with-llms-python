@@ -8,16 +8,10 @@ In this lesson, you'll learn the fundamental concepts of Large Language Models (
 
 ## 📚 Topics Covered
 
-- Introduction to Building AI Application With LLMs using Python (https://youtu.be/3XLMtxxJxWs?si=d0d71cBG4xFY_bB3)
-- Types of AI Models
-- Types of AI Developers
+- Introduction to Building AI Application With LLMs using Python [▶️ YouTube Video] (https://youtu.be/3XLMtxxJxWs?si=d0d71cBG4xFY_bB3)
+- Types of AI Models [▶️ YouTube Video](https://youtu.be/BUWlmy9e5_Y?si=ttXjsaWB5ZbYLa_L)
+- Types of AI Developers [▶️ YouTube Video] ()
 - How to Use Existing LLMs
-
----
-
-## ▶️ YouTube Videos
-
-📺 [Introduction](https://youtu.be/3XLMtxxJxWs?si=d0d71cBG4xFY_bB3)
 
 ---
 
