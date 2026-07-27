@@ -168,24 +168,6 @@ Throughout this course, you'll build AI applications such as:
 
 ---
 
-# 📂 Repository Structure
-
-```text
-building-ai-apps-with-llms-python
-│
-├── 01-Introduction
-├── 02-Types-of-AI-Models
-├── 03-Types-of-AI-Developers
-├── 04-Working-with-Hosted-and-Local-LLMs
-├── 05-Hosted-LLMs
-├── 06-OpenAI
-├── 07-Google-Gemini
-├── 08-Groq
-├── ...
-```
-
----
-
 # ⚡ Getting Started
 
 Clone the repository.
