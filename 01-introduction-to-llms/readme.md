@@ -22,10 +22,10 @@ By the end of this module, you will be able to:
 
 | Lesson | Resources |
 |---------|-----------|
-| **01. Introduction to Building AI Applications with LLMs Using Python** | 📄 PDF • [▶️ YouTube](https://youtu.be/3XLMtxxJxWs?si=d0d71cBG4xFY_bB3) |
-| **02. Types of AI Models** |  [▶️ YouTube](https://youtu.be/BUWlmy9e5_Y?si=ttXjsaWB5ZbYLa_L) |
-| **03. Types of AI Developers** |  [▶️ YouTube](https://www.youtube.com/watch?v=hOKTOBxjLMo&list=PLc27STzkWXpw&index=3)
-| **04. How to Use Existing LLMs** |  [▶️ YouTube](https://www.youtube.com/watch?v=Isb8-K9ya1s&list=PLc27STzkWXpw&index=4)
+| **01. Introduction to Building AI Applications with LLMs Using Python** | [▶️ YouTube](https://youtu.be/3XLMtxxJxWs?si=d0d71cBG4xFY_bB3) |
+| **02. Types of AI Models** | [▶️ YouTube](https://youtu.be/BUWlmy9e5_Y?si=ttXjsaWB5ZbYLa_L) |
+| **03. Types of AI Developers** | [▶️ YouTube](https://www.youtube.com/watch?v=hOKTOBxjLMo&list=PLc27STzkWXpw&index=3)
+| **04. How to Use Existing LLMs** | [▶️ YouTube](https://www.youtube.com/watch?v=Isb8-K9ya1s&list=PLc27STzkWXpw&index=4)
 
 ---
 
