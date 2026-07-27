@@ -1,0 +1,3 @@
+Set Env variable : [Environment]::SetEnvironmentVariable("GROQ_API_KEY", "xxxxxxx","Machine")
+
+Open New Termainal and verify the Env variable value: echo $env:GROQ_API_KEY
