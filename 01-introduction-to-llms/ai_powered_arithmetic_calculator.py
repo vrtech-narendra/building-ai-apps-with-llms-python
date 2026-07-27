@@ -1,7 +1,6 @@
-import os
 import requests
 """
-API_KEY = os.getenv("GROQ_API_KEY")
+API_KEY = "xxxxx" #Replace your api key
 
 URL = "https://api.groq.com/openai/v1/chat/completions"
 
