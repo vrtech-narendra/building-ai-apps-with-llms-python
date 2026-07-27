@@ -29,11 +29,11 @@ By the end of this section, you will be able to:
 |---------|-----------|
 | **01. Introduction to Environment Setup for Local LLMs** | [▶️ YouTube](https://www.youtube.com/watch?v=wIRGgG3mUCU&list=PLc27STzkWXpw&index=5)
 | **02. Installing Ollama and Open-Weight LLMs** | [▶️ YouTube](https://youtu.be/xqIFZg-fEmU)
-| **03. Ollama Setup for Production** | 📄 PDF |*(Video Coming Soon)* |
-| **04. Working with Multiple Open-Weight LLMs** | 📄 PDF |*(Video Coming Soon)* |
-| **05. Working with Ollama Interactive Mode** | 📄 PDF |
-| **06. Setting Up the Environment for Hosted LLMs** | 📄 PDF |*(Video Coming Soon)* |
-| **07. Setting Up the Environment to Use Groq Hosted LLMs** | 📄 PDF |*(Video Coming Soon)* |
+| **03. Ollama Setup for Production** | *(Video Coming Soon)* |
+| **04. Working with Multiple Open-Weight LLMs** | *(Video Coming Soon)* |
+| **05. Working with Ollama Interactive Mode** | *(Video Coming Soon)* |
+| **06. Setting Up the Environment for Hosted LLMs** | *(Video Coming Soon)* |
+| **07. Setting Up the Environment to Use Groq Hosted LLMs** | *(Video Coming Soon)* |
 
 ---
 
